@@ -1,6 +1,6 @@
 {
   "name": "use-require",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Import your node files without specifying their full path",
   "main": "use.js",
   "scripts": {
