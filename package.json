@@ -1,0 +1,34 @@
+{
+  "author": {
+    "name": "Giovanni Donelli",
+    "email": "giovanni.donelli@gmail.com",
+    "url": "http://essenceapp.com"
+  },
+  "name": "use-require",
+  "description": "Import your node files without specifying their full path",
+  "tags": [
+    "require",
+    "import",
+  ],
+  "version": "0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gdonelli/use-require.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gdonelli/use-require/issues"
+  },
+  "main": "use.js",
+  "scripts": {
+  },
+  "engines": {
+    "node": "*"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {
+  },
+  "optionalDependencies": {},
+  "readme": "Import your node files without specifying their full path",
+  "readmeFilename": "README.md",
+}
