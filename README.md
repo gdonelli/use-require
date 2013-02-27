@@ -1,7 +1,7 @@
 use-require
 ===
 
-Import your node files without specifying their full path
+Imagine the `require` command to import your files, without having to specify the full path
 
 
 Setup
